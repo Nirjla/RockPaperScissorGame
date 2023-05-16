@@ -12,7 +12,7 @@ while True:
        if you =='r' or you=='s' or you=='p':
            break
        else:
-           print("Invalid input.Pease enter 'r','s' or 'p' ")
+           print("Invalid input.Please enter 'r','s' or 'p' ")
  print("Computer turn:rock(r),paper(p),scissor(s):")
  print(f"You chose {you}")
  print(f"Computer chose {comp}")
